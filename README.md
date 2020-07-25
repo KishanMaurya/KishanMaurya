@@ -35,8 +35,9 @@ I currently lives in pune.
  - Mysql
 
  ## Code Hosting Plateform - Version Control
--- Github
--- Bitbucket
+ 
+ - Github
+ - Bitbucket
 
 
 ## Work Experience
