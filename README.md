@@ -42,11 +42,14 @@ I currently lives in pune.
 
 ## Work Experience
 
+**Accucia Software Pvt Ltd** - working as Software developer
 
+  - Handling the Backend and Frontent part of projects 
+  - Present Here
 **Hives Labs** - working as Software developer
 
  - Handling the Backend and Frontent part of projects 
- - Present Here
+
 
 **Globalized Dreams Digital Pvt. Ltd.** - PHP Web Developer
 
@@ -91,7 +94,7 @@ I currently lives in pune.
 
 ##  CONTACTS
 
-Email-[Mail-sidshaab97@gmail.com](mailto:kkmaurya.0095@gmail.com)
+Email-[Mail-kkmaurya.0095@gmail.com](mailto:kkmaurya.0095@gmail.com)
 
 LinkedIn - [Linkedin-https://www.linkedin.com/in/kishan-maurya-098994152/](https://www.linkedin.com/in/kishan-maurya-098994152/)
 
