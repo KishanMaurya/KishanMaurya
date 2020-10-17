@@ -19,7 +19,7 @@ I currently lives in pune.
  - React
  - Javascript
  - Bootstrap
- - Material UI
+ - Material UI (React)
  
  ## Backend
 
