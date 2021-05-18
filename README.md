@@ -55,7 +55,6 @@ I currently lives in pune.
 
 **I can work as a freelancer**
 
- - Please Contact me, whatsapp-9598608579, 
  - Email - kkmaurya.0095@gmail.com
 
  
