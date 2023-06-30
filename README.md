@@ -91,16 +91,6 @@ I currently lives in pune.
 |BCA (2016)         |`Mahtma Gandhi Kashi Vidyapeeth Varanasi`|68%|
 |MCA(202)|`Savitribai Phule Pune University`|7.52cgpa|
 
-##  CONTACTS
-
-Email-[Mail-kkmaurya.0095@gmail.com](mailto:kkmaurya.0095@gmail.com)
-
-LinkedIn - [Linkedin-https://www.linkedin.com/in/kishan-maurya-098994152/](https://www.linkedin.com/in/kishan-maurya-098994152/)
-
-Github - [Github  https://github.com/KishanMaurya](https://github.com/KishanMaurya)
-
-Portfolio - [Portfolio  https://commingSoon.me/](https://coomingsoon.me/)
-
 ## Area of interest and life Goals
 
 -   Front-End Web Development, User Experience, User Interface
