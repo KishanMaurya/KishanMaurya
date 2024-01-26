@@ -3,7 +3,7 @@
 ### Introduction :
 Hi! I'm Kishan Maurya  fellow dev call me (mr_fullstack) . I live in Pune ,India .
 I did my 10<sup>th</sup> and 12<sup>th</sup> from UP Board. I have Completed bachelor's of computer application at Mahatma Gandhi Kashi Vidyapeeth from varanasi.
-Currently I have completed MCA from Savitribai Phule Pune University with current CGPA of 7.52.
+Currently I have completed MCA from Savitribai Phule Pune University with current CGPA of 8.52.
 
 I currently lives in pune.
  
@@ -23,42 +23,23 @@ I currently lives in pune.
  
  ## Backend
 
- - PHP
  - Node
+ - Python
 
  ## Framework
  - Express
- - Laravel
 
  ## Database 
  - MongoDB
  - Mysql
 
- ## Code Hosting Plateform - Version Control
+ ## Code Hosting Plateform - Version Control - Cloud Plateform
  
  - Github
  - Bitbucket
-
-
-## Work Experience
-
-**Accucia Software Pvt Ltd** - working as Software developer
-
-  - Handling the Backend and Frontent part of projects 
-  - Present Here
-**Hives Labs** - working as Software developer
-
- - Handling the Backend and Frontent part of projects 
-
-
-**Globalized Dreams Digital Pvt. Ltd.** - PHP Web Developer
-
-**I can work as a freelancer**
-
- - Email - kkmaurya.0095@gmail.com
-
- 
- 
+ - Jira
+ - AWS
+ - Terraform
 
 ## Projects
 
