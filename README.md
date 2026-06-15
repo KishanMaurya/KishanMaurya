@@ -1,41 +1,118 @@
-# Hi there 👋, Welcome to my GitHub page!
+# Hi there 👋, Welcome to my GitHub!
 
-I'm **Kishan Maurya**, a Software Engineer with **4.5+ years of experience** working in **Full Stack Development, Backend, Streaming Platforms, Blockchain, and Cloud Engineering**.  
+I'm **Kishan Maurya**, a **Software Engineer with 4.5+ years of experience** building scalable backend systems, cloud-native applications, streaming platforms, and blockchain solutions.
 
-- Checkout my GitHub repositories on **[System Design](#), [Low Level Design](#), [LeetCode](#), and [Behavioral Interviews](#)**.  
-- Subscribe to my **[AlgoMaster Newsletter](https://blog.algomaster.io/)** and get a **FREE System Design Interview Handbook**.  
-- Checkout my website **[algomaster.io](https://algomaster.io/)** for interview preparation.  
-- Checkout my **[YouTube Channel](#)** for more in-depth content.  
-- Follow me on **[LinkedIn](#)** and **[X](#)** to stay updated.
+Currently, I work at **DAZN**, where I design and develop high-performance microservices powering global sports streaming products. My expertise includes **Node.js, NestJS, TypeScript, AWS, DynamoDB, Terraform, System Design, Distributed Systems, and Cloud Architecture**.
+
+Previously, I worked on **Blockchain & NFT platforms**, integrating smart contracts, crypto wallets, payment gateways, and secure digital asset management solutions.
+
+---
+
+## 🚀 What I'm Working On
+
+* Building scalable backend services and distributed systems
+* Streaming platform architecture & video delivery systems
+* AWS Cloud Infrastructure & Infrastructure as Code (Terraform)
+* System Design & Low-Level Design
+* Interview Preparation (DSA, HLD, LLD & Behavioral)
+* AI-powered SaaS Products
+
+---
+
+## 📚 Explore My Repositories
+
+* 🔥 System Design
+* 🏗️ Low Level Design (LLD)
+* 📈 Scalable Backend Architecture
+* 💻 Data Structures & Algorithms
+* 🎯 LeetCode Solutions
+* 🤝 Behavioral Interview Preparation
+* ☁️ AWS & Terraform
+* ⚡ Node.js & NestJS Projects
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer | DAZN
+
+* Designed and enhanced backend systems enabling seamless purchase and access for global streaming products.
+* Built scalable microservices using **Node.js, NestJS, TypeScript, AWS, and DynamoDB**.
+* Developed and optimized APIs serving millions of users across sports streaming platforms.
+* Implemented secure payment integrations including subscription and recurring billing workflows.
+* Worked on cloud-native architectures leveraging **API Gateway, Lambda, S3, DynamoDB, CloudWatch, and Terraform**.
+* Collaborated across multiple teams to deliver highly available and resilient services.
+
+### Software Engineer | Accubits Technologies
+
+* Built Blockchain and NFT platforms from scratch.
+* Integrated smart contracts, Fireblocks, Metamask, and Circle Payments.
+* Improved system performance and reliability through extensive testing and optimization.
+* Managed cloud infrastructure, monitoring, and deployment pipelines.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
-HTML5, CSS3 (Flex & Grid), JavaScript, React, Bootstrap, Material UI  
-
 ### Backend
-Node.js, NestJS, Express.js, Java, Python  
 
-### Database
-MongoDB, MySQL, PostgreSQL, DynamoDB  
+* Node.js
+* NestJS
+* Express.js
+* TypeScript
+* Java
+* Python
+* Golang
 
 ### Cloud & DevOps
-AWS, Terraform, PM2, API Gateway, Lambda  
+
+* AWS
+* Terraform
+* API Gateway
+* Lambda
+* DynamoDB
+* S3
+* CloudWatch
+* PM2
+
+### Databases
+
+* DynamoDB
+* PostgreSQL
+* MongoDB
+* MySQL
+
+### Blockchain
+
+* Smart Contracts
+* NFTs
+* Fireblocks
+* Circle Payments
+* Metamask
 
 ### Tools
-GitHub, Bitbucket, Jira, Circle API, Fireblocks, Metamask  
+
+* Git
+* GitHub
+* Bitbucket
+* Jira
+* Postman
 
 ---
 
+## 🌐 Connect With Me
 
+* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+* GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
+---
+
+⭐ Feel free to explore my repositories and connect with me. I'm always interested in discussing backend engineering, cloud architecture, system design, streaming platforms, and emerging technologies.
