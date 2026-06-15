@@ -54,9 +54,9 @@ Previously, I worked on **Blockchain & NFT platforms**, integrating smart contra
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishanMaurya\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanMaurya\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -110,8 +110,8 @@ Previously, I worked on **Blockchain & NFT platforms**, integrating smart contra
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* LinkedIn: https://www.linkedin.com/in/kishanmaurya/
+* GitHub: https://github.com/KishanMaurya
 
 ---
 
