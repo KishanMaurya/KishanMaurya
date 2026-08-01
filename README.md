@@ -22,9 +22,9 @@
 ```typescript
 const kishan = {
   role:       "Software Engineer @ DAZN",
-  experience: "4.5+ years",
+  experience: "5+ years",
   focus:      ["Distributed Systems", "Cloud Architecture", "Streaming Platforms"],
-  stack:      ["Node.js", "NestJS", "TypeScript", "AWS", "DynamoDB", "Terraform"],
+  stack:      ["Node.js", "NestJS", "TypeScript", "Go", "AWS", "DynamoDB", "Terraform"],
   previously: "Blockchain & NFT platforms — smart contracts, wallets, crypto payments",
   currently:  "Designing high-performance microservices for global sports streaming",
 };
