@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kishan%20Maurya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0288d1,50:039be5,100:4fc3f7&height=200&section=header&text=Kishan%20Maurya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://www.linkedin.com/in/kishanmaurya/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer+%40+DAZN;Node.js+%7C+NestJS+%7C+TypeScript+%7C+AWS;Scaling+microservices+for+global+streaming;Building+AI-powered+SaaS+products" alt="Typing SVG" />
@@ -178,6 +178,6 @@ I build scalable backend systems and cloud-native applications that serve **mill
 ⭐ Feel free to explore my repositories and reach out — I'm always up for a conversation about<br/>
 **backend engineering, cloud architecture, system design, streaming platforms and emerging tech.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:039be5,100:0288d1&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
