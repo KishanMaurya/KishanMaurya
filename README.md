@@ -1,12 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kishan%20Maurya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%" alt="header"/>
-<!-- NOTE: do not add &animation=fadeIn here. It gives the title text
-     opacity:0 plus a CSS @keyframes fade-in, and GitHub's camo image proxy
-     does not run CSS animations inside SVGs — the text stays invisible.
-     The typing SVG below is fine: it animates with SMIL <animate>, which
-     camo does render. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kishan%20Maurya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://www.linkedin.com/in/kishanmaurya/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer+%40+DAZN;Node.js+%7C+NestJS+%7C+TypeScript+%7C+AWS;Scaling+microservices+for+global+streaming;Building+AI-powered+SaaS+products" alt="Typing SVG" />
