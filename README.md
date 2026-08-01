@@ -24,7 +24,7 @@ const kishan = {
   role:       "Software Engineer @ DAZN",
   experience: "5+ years",
   focus:      ["Distributed Systems", "Cloud Architecture", "Streaming Platforms"],
-  stack:      ["Node.js", "NestJS", "TypeScript", "Go", "AWS", "DynamoDB", "Terraform"],
+  stack:      ["Node.js", "NestJS", "TypeScript", "Go", "Fiber", "AWS", "DynamoDB", "Terraform"],
   previously: "Blockchain & NFT platforms — smart contracts, wallets, crypto payments",
   currently:  "Designing high-performance microservices for global sports streaming",
 };
@@ -68,6 +68,8 @@ I build scalable backend systems and cloud-native applications that serve **mill
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,java,python,go&theme=dark" alt="backend"/>
+<br/>
+<img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="Fiber"/>
 
 **Cloud &amp; DevOps**
 
