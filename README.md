@@ -8,7 +8,7 @@
 
 
 <img src="https://img.shields.io/badge/MCA-Computer%20Science-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Degree"/>
-<img src="https://img.shields.io/badge/Savitribai Phule Pune University-6D28D9?style=for-the-badge&labelColor=0D1117" alt="University"/>
+<img src="https://img.shields.io/badge/Savitribai%20Phule%20Pune%20University-6D28D9?style=for-the-badge&labelColor=0D1117" alt="University"/>
 
 <br/><br/>
 
