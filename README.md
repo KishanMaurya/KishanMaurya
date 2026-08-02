@@ -235,25 +235,17 @@ Built blockchain and NFT platforms from the ground up, spanning smart contract i
 
 ## Certifications
 
-**TODO — this entire section is unverified. Add only certifications you actually hold and remove the rest, including whole provider groups.**
-
 <div align="center">
 
-**Amazon Web Services**
+**Meta**
 
-<img src="https://img.shields.io/badge/AWS%20Certified-TODO-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS Certification"/>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XTE3ZK5HJ5NG"><img src="https://img.shields.io/badge/Meta-Back--End%20Developer-8B5CF6?style=for-the-badge&logo=meta&logoColor=white&labelColor=0D1117" alt="Meta Back-End Developer Professional Certificate"/></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XTE3ZK5HJ5NG"><img src="https://img.shields.io/badge/Verify%20on%20Coursera-7C3AED?style=flat-square&logo=coursera&logoColor=white&labelColor=0D1117" alt="Verify on Coursera"/></a>
 
-**Oracle**
+**Redis**
 
-<img src="https://img.shields.io/badge/Oracle-TODO-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="Oracle Certification"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-TODO-6D28D9?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="NPTEL Certification"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-TODO-5B21B6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" alt="Cisco Certification"/>
+<a href="https://www.credential.net/6bd3952b-4fc4-4392-921b-dcf30ed88ecf#acc.B84RWE6r"><img src="https://img.shields.io/badge/Redis-Certified%20Developer-6D28D9?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" alt="Redis Certified Developer"/></a>
+<a href="https://www.credential.net/6bd3952b-4fc4-4392-921b-dcf30ed88ecf#acc.B84RWE6r"><img src="https://img.shields.io/badge/Verify%20Credential-7C3AED?style=flat-square&logoColor=white&labelColor=0D1117" alt="Verify Credential"/></a>
 
 </div>
 
