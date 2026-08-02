@@ -6,10 +6,9 @@
 
 <br/>
 
-**TODO — replace with your real degree and institution, or delete this line**
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Degree"/>
-<img src="https://img.shields.io/badge/University-TODO-6D28D9?style=for-the-badge&labelColor=0D1117" alt="University"/>
+<img src="https://img.shields.io/badge/MCA-Computer%20Science-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Degree"/>
+<img src="https://img.shields.io/badge/Savitribai Phule Pune University-6D28D9?style=for-the-badge&labelColor=0D1117" alt="University"/>
 
 <br/><br/>
 
