@@ -33,7 +33,7 @@
 
 ## About
 
-Software Engineer with **5+ years** of experience designing and operating backend systems that serve millions of users. Currently at **DAZN**, where I build the microservices behind purchase, entitlement and access flows for global sports streaming — services measured in availability, latency and revenue impact rather than lines of code.
+Senior Software Engineer with **5+ years** of experience designing and operating backend systems that serve millions of users. Currently at **DAZN**, where I build the microservices behind purchase, entitlement and access flows for global sports streaming — services measured in availability, latency and revenue impact rather than lines of code.
 
 My core strength is **backend and distributed systems engineering**: designing service boundaries, modelling data for access patterns rather than convenience, and making cloud-native systems observable and resilient under real production load. I work primarily in **Node.js, NestJS, TypeScript and Go**, on **AWS** infrastructure defined end to end in **Terraform**.
 
